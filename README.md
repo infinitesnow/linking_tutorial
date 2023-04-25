@@ -2,7 +2,7 @@
 A step-by-step tutorial for low-level C++ linkage on Linux, meant for people with 0 C++ / low level knowledge.
 
 Make sure you have a C++ compiler installed. On Ubuntu, you need to
-```sudo apt-get install build-essentials```
+```sudo apt-get install build-essential```
 You also need `Python>=3.8`. Should be fine on any recent Ubuntu.
 
 Run `./runme.py`.
